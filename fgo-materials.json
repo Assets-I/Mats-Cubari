@@ -4,7 +4,7 @@
   "publisher": "©TYPE-MOON",
   "cover": "https://i.imgur.com/rUWI0KT.png",
   "chapters": {
-    "I": {
+    "1": {
       "title": "Fate/Grand Order Materials I",
       "volume": "1",
       "last_updated": "1664780725",
@@ -366,7 +366,7 @@
         ]
       }
     },
-    "II": {
+    "2": {
       "title": "Fate/Grand Order Materials II",
       "volume": "2",
       "last_updated": "1664780725",
@@ -708,7 +708,7 @@
         ]
       }
     },
-	"III": {
+	"3": {
       "title": "Fate/Grand Order Materials III",
       "volume": "3",
       "last_updated": "1664780725",
@@ -1066,7 +1066,7 @@
         ]
       }
     },
-	"IV": {
+	"4": {
       "title": "Fate/Grand Order Materials IV",
       "volume": "4",
       "last_updated": "1664780725",
@@ -1512,7 +1512,7 @@
         ]
       }
     },
-	"V": {
+	"5": {
       "title": "Fate/Grand Order Materials V",
       "volume": "5",
       "last_updated": "1664780725",
@@ -1870,7 +1870,7 @@
         ]
       }
     },
-	"VI": {
+	"6": {
       "title": "Fate/Grand Order Materials VI",
       "volume": "6",
       "last_updated": "1664780725",
@@ -2184,7 +2184,7 @@
         ]
       }
     },
-	"VII": {
+	"7": {
       "title": "Fate/Grand Order Materials VII",
       "volume": "7",
       "last_updated": "1664780725",
@@ -2642,7 +2642,7 @@
         ]
       }
     },
-	"VIII": {
+	"8": {
       "title": "Fate/Grand Order Materials VIII",
       "volume": "8",
       "last_updated": "1664780725",
@@ -3060,7 +3060,7 @@
         ]
       }
     },
-	"IX": {
+	"9": {
       "title": "Fate/Grand Order Materials IX",
       "volume": "9",
       "last_updated": "1664780725",
@@ -3434,7 +3434,7 @@
         ]
       }
     },
-	"X": {
+	"10": {
       "title": "Fate/Grand Order Materials X",
       "volume": "10",
       "last_updated": "1664780725",
